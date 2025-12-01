@@ -11,4 +11,4 @@ Documenting my coding journey from beginner → future software engineer.
 To build a strong portfolio as I start first year and show my growth over time.
 
 ## 🚀 Follow my journey  
-More projects coming as I learn and level up ✨
+More projects coming as I learn and level up ✨ 
