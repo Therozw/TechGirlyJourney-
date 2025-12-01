@@ -1,0 +1,2 @@
+# TechGirlyJourney-
+Documenting  my progress
